@@ -40,19 +40,18 @@ Recommended IDE:
 * [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 * [R Markdown Cheat Sheet](http://shiny.rstudio.com/articles/rm-cheatsheet.html)
 
-## Data Packages and Sources
-
-* [engsoccerdata](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2016.
-* [gapminder](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries throught the past 50 years).
-
 ## Useful Packages
 * [tidyverse](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.
 * [ggplot2](https://github.com/hadley/ggplot2) - An implementation of the Grammar of Graphics.
 
 * [rmarkdown](http://rmarkdown.rstudio.com/) - Dynamic documents for R.
-* [bookdown](https://bookdown.org/) - Authoring Books with R Markdown.
-* [ReporteRs](http://davidgohel.github.io/ReporteRs/index.html) - An R package to generate Microsoft Word, Microsoft PowerPoint and HTML reports.
+* [bookdown](https://bookdown.org/) - Produce Books with R Markdown.
+* [ReporteRs](http://davidgohel.github.io/ReporteRs/index.html) - A package to generate Microsoft Word, PowerPoint and HTML reports.
 * [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using R.
+
+## Data Packages and Sources
+
+* [gapminder](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries throught the past 50 years).
 
 # Computational Social Science Resources
 
