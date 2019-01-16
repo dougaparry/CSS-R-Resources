@@ -11,11 +11,11 @@ A repository for collating useful Computational Social Science and R-programming
 - [Computational Social Science Resources](#computational-social-science-resources)
 - [Interesting Blog Posts](#interesting-blog-posts)
   
+# R Programming Resources
+
 Recommended IDE:
 
 * [RStudio](http://www.rstudio.org/) - A powerful user interface and development environment for R. Works on Mac, Windows, and Linux.
-
-# R Programming Resources
 
 ## Websites
 
