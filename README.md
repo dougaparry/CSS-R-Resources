@@ -3,6 +3,8 @@ A repository for collating useful Computational Social Science and R-programming
 
   - [Websites](#websites)
   - [Books](#books)
+  - [MOOCs](#moocs)
+  - [Cheat Sheats](#cheat-sheets)
 
 * [RStudio <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.rstudio.org/) - A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
 
