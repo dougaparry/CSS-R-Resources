@@ -37,6 +37,7 @@ Recommended IDE:
 ## Cheat Sheets
 
 * [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+* [R Markdown Cheat Sheet](http://shiny.rstudio.com/articles/rm-cheatsheet.html)
 
 ## Data Packages and Sources
 
@@ -55,3 +56,5 @@ Recommended IDE:
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 # Computational Social Science Courses
+
+* [Computational Social Science, Princeton University, taught by Matthew Salganik](http://www.princeton.edu/~mjs3/soc596_f2016/)
