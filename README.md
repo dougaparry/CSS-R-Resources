@@ -8,7 +8,8 @@ A repository for collating useful Computational Social Science and R-programming
   - [Cheat Sheats](#cheat-sheets)
   - [Data Packages and Sources Sheats](#data-packages-and-sources)
   - [Useful Packages](#useful-packages)
-- [Computational Social Science Courses](#computational-social-science-courses)
+- [Computational Social Science Resources](#computational-social-science-resources)
+- [Interesting Blog Posts](#interesting-blog-posts)
   
 Recommended IDE:
 
@@ -53,8 +54,13 @@ Recommended IDE:
 * [ReporteRs](http://davidgohel.github.io/ReporteRs/index.html) - An R package to generate Microsoft Word, Microsoft PowerPoint and HTML reports.
 * [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using R.
 
-# Computational Social Science Courses
+# Computational Social Science Resources
 
+* [Bit by Bit : Social Research in the Digital Age by Matthew Salganik (Open Book)](https://www.bitbybitbook.com)
 * [Computational Social Science, Princeton University, taught by Matthew Salganik](http://www.princeton.edu/~mjs3/soc596_f2016/)
+
+# Interesting Blog Posts
+
+* [How to solve a business problem using data](https://www.littlemissdata.com/blog/businessproblem)
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
