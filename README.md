@@ -1,5 +1,5 @@
 # CSS-R-Resources
-A repository for collating useful Computational Social Science and R-programming resources.
+A repository for collating useful _Computational Social Science_ and R-programming resources.
 
 - [R Programming Resources](#R-programming-resources)
   - [Websites](#websites)
