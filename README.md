@@ -1,24 +1,25 @@
 # CSS-R-Resources
 A repository for collating useful Computational Social Science and R-programming resources.
 
+- [R Programming Resources](#R-programming-resources)
   - [Websites](#websites)
   - [Books](#books)
   - [MOOCs](#moocs)
   - [Cheat Sheats](#cheat-sheets)
   - [Data Packages and Sources Sheats](#data-packages-and-sources)
   - [Useful Packages](#useful-packages)
+- [Computational Social Science Courses](#computational-social-science-courses)
   
 Recommended IDE:
 
-* [RStudio](http://www.rstudio.org/) - A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
+* [RStudio](http://www.rstudio.org/) - A powerful user interface and development environment for R. Works on Mac, Windows, and Linux.
 
-# Resources
+# R Programming Resources
 
 ## Websites
 
 * [R-project](http://www.r-project.org/) - The R Project for Statistical Computing.
-* [Quick-R](http://www.statmethods.net/) - An excellent quick reference.
-* [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN, Bioconductor, Github packages and their archives with RDocumentation.
+* [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN, Bioconductor, Github packages and their archives.
 
 ## Books
 
@@ -52,3 +53,5 @@ Recommended IDE:
 * [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using R.
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
+# Computational Social Science Courses
