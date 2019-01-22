@@ -36,8 +36,7 @@ Recommended IDE:
 * [R Programming for Data Science](https://leanpub.com/rprogramming) - More advanced data analysis that relies on R programming.
 * [Report Writing for Data Science in R](https://leanpub.com/reportwriting) - R-based methods for reproducible research and report generation.
 * [R for Data Science](http://r4ds.had.co.nz/) - Free book from RStudio developers with emphasis on data science workflow.
-
-
+* [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os) - A free online open introduction to statistics book
 
 ## Cheat Sheets
 
