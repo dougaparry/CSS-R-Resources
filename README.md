@@ -20,7 +20,7 @@ Recommended IDE:
 ## Websites
 
 * [R-project](http://www.r-project.org/) - The R Project for Statistical Computing.
-* [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN, Bioconductor, Github packages and their archives.
+* [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN and Github packages.
 
 ## Courses
 
