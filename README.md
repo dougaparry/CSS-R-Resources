@@ -42,6 +42,9 @@ Recommended IDE:
 * [Data Visualisation: A practical introduction](http://socviz.co) - Awesome resource on the basics of data visualisation provided by Kieran Healy
 * [The tidyverse style guide](https://style.tidyverse.org) - a great how to on the tidyverse
 
+* [Answering Questions with data: Introductory statistics](https://crumplab.github.io/statistics/) - open statistics textbook
+* [Learning Statistics with R](https://learningstatisticswithr.com) - open statistics textbook (with datasets)
+
 ## Cheat Sheets
 
 * [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
