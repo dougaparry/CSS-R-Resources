@@ -21,6 +21,7 @@ Recommended IDE:
 
 * [R-project](http://www.r-project.org/) - The R Project for Statistical Computing.
 * [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN and Github packages.
+* [Top 50 ggplot2 Visualizations](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html) - 50 ggplot2 examples with full R code
 
 ## Courses
 
@@ -37,6 +38,7 @@ Recommended IDE:
 * [Report Writing for Data Science in R](https://leanpub.com/reportwriting) - R-based methods for reproducible research and report generation.
 * [R for Data Science](http://r4ds.had.co.nz/) - Free book from RStudio developers with emphasis on data science workflow.
 * [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os) - A free online open introduction to statistics book
+* [Data Visualisation: A practical introduction](http://socviz.co) - Awesome resource on the basics of data visualisation provided by Kieran Healy
 
 ## Cheat Sheets
 
