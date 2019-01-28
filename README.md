@@ -73,5 +73,6 @@ Recommended IDE:
 # Interesting Blog Posts
 
 * [How to solve a business problem using data](https://www.littlemissdata.com/blog/businessproblem)
+* [Would You Survive the Titanic? A Guide to Machine Learning in Python](https://medium.com/learning-new-stuff/would-you-survive-the-titanic-a-guide-to-machine-learning-in-python-f80c9d7b7582)
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
