@@ -55,7 +55,7 @@ Recommended IDE:
 ## Useful Packages
 * [tidyverse](https://github.com/hadley/tidyverse) - Easily install and load packages from the tidyverse.
 * [ggplot2](https://github.com/hadley/ggplot2) - An implementation of the Grammar of Graphics.
-* [Rvest] (https://cran.r-project.org/web/packages/rvest/rvest.pdf) - A useful package for working with html data
+* [Rvest](https://cran.r-project.org/web/packages/rvest/rvest.pdf) - A useful package for working with html data
 * [rmarkdown](http://rmarkdown.rstudio.com/) - Dynamic documents for R.
 * [bookdown](https://bookdown.org/) - Produce Books with R Markdown.
 * [ReporteRs](http://davidgohel.github.io/ReporteRs/index.html) - A package to generate Microsoft Word, PowerPoint and HTML reports.
