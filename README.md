@@ -9,10 +9,9 @@ A repository for collating useful _Computational Social Science_ and R-programmi
   - [Data Packages and Sources Sheats](#data-packages-and-sources)
   - [Useful Packages](#useful-packages)
 - [Computational Social Science Resources](#computational-social-science-resources)
-
-First port of call: [How do I...](https://smach.github.io/R4JournalismBook/HowDoI.html)
-
 - [Interesting Blog Posts](#interesting-blog-posts)
+
+#### First port of call: [How do I...](https://smach.github.io/R4JournalismBook/HowDoI.html)
   
 # R Programming Resources
 
