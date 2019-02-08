@@ -25,6 +25,7 @@ Recommended IDE:
 * [RDocumentation](https://www.rdocumentation.org/) - Search through all CRAN and Github packages.
 * [Top 50 ggplot2 Visualizations](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html) - 50 ggplot2 examples with full R code
 * [The R Graph Gallery](https://www.r-graph-gallery.com) - A gallery of useful graphs in R
+* [Simply Statistics](https://simplystatistics.org) - a great blog on data science, analysis, and statistics
 
 ## Courses
 
