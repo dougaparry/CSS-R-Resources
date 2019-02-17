@@ -75,5 +75,9 @@ Recommended IDE:
 
 * [How to solve a business problem using data](https://www.littlemissdata.com/blog/businessproblem)
 * [Would You Survive the Titanic? A Guide to Machine Learning in Python](https://medium.com/learning-new-stuff/would-you-survive-the-titanic-a-guide-to-machine-learning-in-python-f80c9d7b7582)
+* [SQL one of the most valuable skills](http://www.craigkerstiens.com/2019/02/12/sql-most-valuable-skill/)
+* [Data science is different now](https://veekaybee.github.io/2019/02/13/data-science-is-different/)
+* [Data Science Foundations: Know your data. Really, really, know it](https://towardsdatascience.com/data-science-foundations-know-your-data-really-really-know-it-a6bb97eb991c?sk=42f1c02883e744df7dbb618373312244)
+
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
