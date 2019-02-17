@@ -78,6 +78,7 @@ Recommended IDE:
 * [SQL one of the most valuable skills](http://www.craigkerstiens.com/2019/02/12/sql-most-valuable-skill/)
 * [Data science is different now](https://veekaybee.github.io/2019/02/13/data-science-is-different/)
 * [Data Science Foundations: Know your data. Really, really, know it](https://towardsdatascience.com/data-science-foundations-know-your-data-really-really-know-it-a6bb97eb991c?sk=42f1c02883e744df7dbb618373312244)
+* [How the BBC Visual and Data Journalism team works with graphics in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535)
 
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
