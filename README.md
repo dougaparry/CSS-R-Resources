@@ -61,6 +61,7 @@ Recommended IDE:
 * [bookdown](https://bookdown.org/) - Produce Books with R Markdown.
 * [ReporteRs](http://davidgohel.github.io/ReporteRs/index.html) - A package to generate Microsoft Word, PowerPoint and HTML reports.
 * [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - A package designed to write LaTeX reports using R.
+* [htmltab](https://cran.r-project.org/web/packages/htmltab/index.html) - A package for collecting structured table data from HTML pages.
 
 ## Data Packages and Sources
 
