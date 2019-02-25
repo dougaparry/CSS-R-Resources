@@ -44,9 +44,9 @@ Recommended IDE:
 * [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os) - A free online open introduction to statistics book
 * [Data Visualisation: A practical introduction](http://socviz.co) - Awesome resource on the basics of data visualisation provided by Kieran Healy
 * [The tidyverse style guide](https://style.tidyverse.org) - a great how to on the tidyverse
-
 * [Answering Questions with data: Introductory statistics](https://crumplab.github.io/statistics/) - open statistics textbook
 * [Learning Statistics with R](https://learningstatisticswithr.com) - open statistics textbook (with datasets)
+* [An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf) - great short overview on the processes of cleaning datasets with R
 
 ## Cheat Sheets
 
