@@ -82,6 +82,7 @@ Recommended IDE:
 * [How the BBC Visual and Data Journalism team works with graphics in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535)
 * [Wikipedia Data Scraping with R: rvest in Action](https://medium.com/@kyleake/wikipedia-data-scraping-with-r-rvest-in-action-3c419db9af2d)
 * [Open letter to journal editors: dynamite plots must die](https://simplystatistics.org/2019/02/21/dynamite-plots-must-die/)
+* [Reproducible Research in Computational Sciences](https://blog.dominodatalab.com/reproducible-research-using-domino/)
 
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
