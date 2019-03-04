@@ -66,6 +66,7 @@ Recommended IDE:
 ## Data Packages and Sources
 
 * [gapminder](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries throught the past 50 years).
+* [UCT DataFirst Open Data Portal](https://www.datafirst.uct.ac.za/dataportal/index.php/catalog) - DataFirst is a research data service dedicated to opening up South African and other African survey and administrative microdata to researchers and policy analysts
 
 # Computational Social Science Resources
 
